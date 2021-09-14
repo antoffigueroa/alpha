@@ -1,0 +1,3 @@
+Bordoloi et al. 2011: studied azimuthal distribution of Mg II at <200 kpc of
+~4000 galaxies at 0.5 < z < 0.9. Found strong azimuthal dependence of Mg II
+absorption.
