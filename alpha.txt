@@ -2,6 +2,10 @@ Bordoloi et al. 2011: studied azimuthal distribution of Mg II at <200 kpc of
 ~4000 galaxies at 0.5 < z < 0.9. Found strong azimuthal dependence of Mg II
 absorption.
 
+Bouche et al 2012b: studied strong Mg II absorption system in the line of sight
+of 12 QSOs. Azimuthal distribution is bimodal. Biconical outflow model is abble
+to reproduce the results.
+
 Kacprzak et al. 2012: studied 88 Mg II absorption systems and 35 non-absorption
 systems. Found absorption is preferently located along the minor and major
 axes.
@@ -16,6 +20,6 @@ to be uniform.
 Kacprzak 2017: review. Relevant sections: 2.2, 4.
 
 Lundgren et al. 2021: studied 54 Mg II absorbers at 0.64 < z < 1.4. Found
-enhanced Mg II absorption within 50º of the minor axis. Also calculated a model 
+enhanced Mg II absorption within 50º of the minor axis. Also calculated a model
 for equivalent width distribution that takes into consideration azimuthal angle,
 impact parameter and environment.
