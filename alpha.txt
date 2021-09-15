@@ -30,6 +30,9 @@ a biconical outflow along the minor axis is able to explain the observations.
 
 Kacprzak 2017: review. Relevant sections: 2.2, 4.
 
+Nelson et al. 2019: simulations of outflows. Initially outflows have a wide
+apperture angle, but then become collimated.
+
 Lundgren et al. 2021: studied 54 Mg II absorbers at 0.64 < z < 1.4. Found
 enhanced Mg II absorption within 50º of the minor axis. Also calculated a model
 for equivalent width distribution that takes into consideration azimuthal angle,
