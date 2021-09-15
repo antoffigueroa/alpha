@@ -13,6 +13,8 @@ axes.
 Martin et al. 2012: studied ~200 galaxies at 0.4 < z < 1.4. Found a strong
 correlation between Fe II velocity and azimuthal angle.
 
+Bouche et al. 2013: inflows are located along the minor axis.
+
 Bordoloi et al. 2014: studied 486 galaxies at 1 < z < 1.5. Found that face-on
 galaxies show higher equivalent widths than edge-on galaxies.
 
