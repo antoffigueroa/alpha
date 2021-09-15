@@ -16,6 +16,9 @@ correlation between Fe II velocity and azimuthal angle.
 Bordoloi et al. 2014: studied 486 galaxies at 1 < z < 1.5. Found that face-on
 galaxies show higher equivalent widths than edge-on galaxies.
 
+Lan et al. 2014: studied 2000 galaxy-absorber pairs at z~0.5. Found stronger
+Mg II absorbers are located along the minor axis.
+
 Mathes et al. 2014: studied 14 HI and O VI absorption systems. Found H I column
 density is larger along the minor and major axes of galaxies, but O VI seemed
 to be uniform.
