@@ -8,3 +8,6 @@ axes.
 
 Martin et al. 2012: studied ~200 galaxies at 0.4 < z < 1.4. Found a strong
 correlation between Fe II velocity and azimuthal angle.
+
+Mathes et al. 2014: studied 14 HI and O VI absorption systems. Found H I column
+density is larger along the minor and major axes of galaxies.
