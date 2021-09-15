@@ -17,6 +17,9 @@ Mathes et al. 2014: studied 14 HI and O VI absorption systems. Found H I column
 density is larger along the minor and major axes of galaxies, but O VI seemed
 to be uniform.
 
+Schroetter et al. 2015: observations of 10 QSO-galaxy pairs. Model that assumes
+a biconical outflow along the minor axis is able to explain the observations.
+
 Kacprzak 2017: review. Relevant sections: 2.2, 4.
 
 Lundgren et al. 2021: studied 54 Mg II absorbers at 0.64 < z < 1.4. Found
