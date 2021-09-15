@@ -12,3 +12,5 @@ correlation between Fe II velocity and azimuthal angle.
 Mathes et al. 2014: studied 14 HI and O VI absorption systems. Found H I column
 density is larger along the minor and major axes of galaxies, but O VI seemed
 to be uniform.
+
+Kacprzak 2017: review. Relevant sections: 2.2, 4.
