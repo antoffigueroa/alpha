@@ -1,6 +1,9 @@
 Heckman et al. 1990: observational evidence of outflows along the minor axis of
 galaxies in the local universe.
 
+Lehnert and Heckman 1996: excess of line emission along the minor axis of
+galaxies in the local Universe. Lines are broader along the minor axis.
+
 Bordoloi et al. 2011: studied azimuthal distribution of Mg II at <200 kpc of
 ~4000 galaxies at 0.5 < z < 0.9. Found strong azimuthal dependence of Mg II
 absorption.
