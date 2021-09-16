@@ -18,6 +18,9 @@ Bouche et al. 2013: inflows are located along the minor axis.
 Bordoloi et al. 2014: studied 486 galaxies at 1 < z < 1.5. Found that face-on
 galaxies show higher equivalent widths than edge-on galaxies.
 
+Kacprzak et al. 2014: found evidence for an outflow along the minor axis of a
+galaxy at z=0.2.
+
 Lan et al. 2014: studied 2000 galaxy-absorber pairs at z~0.5. Found stronger
 Mg II absorbers are located along the minor axis.
 
