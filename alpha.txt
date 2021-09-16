@@ -12,6 +12,9 @@ Bouche et al 2012b: studied strong Mg II absorption system in the line of sight
 of 12 QSOs. Azimuthal distribution is bimodal. Biconical outflow model is able
 to reproduce the results.
 
+Dijkstra and Kramer 2012: simulations of the CGM that take into consideration
+line strength dependence on azimuthal angle.
+
 Gauthier and Chen 2012: studied outflow properties of four galaxies at z > 0.5.
 Created an outflow model to constrain outflow apperture angles.
 
