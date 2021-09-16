@@ -12,6 +12,9 @@ Bouche et al 2012b: studied strong Mg II absorption system in the line of sight
 of 12 QSOs. Azimuthal distribution is bimodal. Biconical outflow model is able
 to reproduce the results.
 
+Gauthier and Chen 2012: studied outflow properties of four galaxies at z > 0.5.
+Created an outflow model to constrain outflow apperture angles.
+
 Kacprzak et al. 2012: studied 88 Mg II absorption systems and 35 non-absorption
 systems. Found absorption is preferently located along the minor and major
 axes.
