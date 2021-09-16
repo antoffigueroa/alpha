@@ -15,7 +15,11 @@ correlation between Fe II velocity and azimuthal angle.
 
 Bouche et al. 2013: inflows are located along the minor axis.
 
-Bordoloi et al. 2014: studied 486 galaxies at 1 < z < 1.5. Found that face-on
+Bordoloi et al. 2014a: studied Mg II absorption using QSO absorption lines and
+stacked spectra. Found a strong correlation between line strength and azimuthal
+angle. Stronger absorbers are within 50º of the minor axis.
+
+Bordoloi et al. 2014b: studied 486 galaxies at 1 < z < 1.5. Found that face-on
 galaxies show higher equivalent widths than edge-on galaxies.
 
 Kacprzak et al. 2014: found evidence for an outflow along the minor axis of a
