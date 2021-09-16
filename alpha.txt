@@ -28,6 +28,9 @@ to be uniform.
 Schroetter et al. 2015: observations of 10 QSO-galaxy pairs. Model that assumes
 a biconical outflow along the minor axis is able to explain the observations.
 
+Schroetter et al. 2016: found evidence for a biconical outflow in a single
+galaxy using MUSE and UVES.
+
 Kacprzak 2017: review. Relevant sections: 2.2, 4.
 
 Nelson et al. 2019: simulations of outflows. Initially outflows have a wide
